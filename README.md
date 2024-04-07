@@ -20,14 +20,18 @@
 
 ## 04-03-2024
 
-- Multi-stage builds for Docker Containers (BD)
+- Training: Troubleshooting node/nextjs application startup (BD)
+
+## 04-04-2024
+
+- Training: Multi-stage builds for Docker Containers (BD)
 
 ## 04-05-2024
 
-- [Google Cloud Digital Leader @ KodeKloud](https://kodekloud.com/courses/gcp-cloud-digital-leader-certification/)
-
-## 04-06-2024
-
+- Training: Multi-stage builds for Docker Containers (BD)
 - [Google Cloud Digital Leader @ KodeKloud](https://kodekloud.com/courses/gcp-cloud-digital-leader-certification/)
 - [Google Cloud Digital Leader Path @ CloudSkillsBoost.Google](https://www.cloudskillsboost.google/paths/9)
 - [Google Cloud Terraform Basics](./learn-terraform-gcp/)
+
+## 04-08-2024
+
